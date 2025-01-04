@@ -27,7 +27,7 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Zlkcyber/mygateBot.git
+    git clone https://github.com/raymundedgar/mygateBot.git
     cd mygateBot
     ```
 
